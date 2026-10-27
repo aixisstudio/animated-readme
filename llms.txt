@@ -1,9 +1,7 @@
 # animated-readme
 > Animated widgets to make your GitHub profile README pop
-Maintained by aixisstudio (https://github.com/aixisstudio). Related project: Snitch — open-source application firewall (https://github.com/aixisstudio/Snitch).
-Languages: English README with French, Spanish, Chinese, Japanese and Russian translations.
+Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://github.com/aixisstudio/animated-readme
 
-## Content
 ## ✨ Make your profile move — animated README widgets
 
 ## ⌨️ Typing effect
@@ -47,4 +45,6 @@ Languages: English README with French, Spanish, Chinese, Japanese and Russian tr
 
 | Widget | Embed |
 |---|---|
-| Spotify now-playing | `spotify-github-profile.vercel.
+| Spotify now-playing | `spotify-github-profile.vercel.app` |
+| Random dev quote | `quotes-github-readme.vercel.app` |
+| Visitor counter | `komarev.com/ghp
