@@ -1,0 +1,50 @@
+# animated-readme
+> Animated widgets to make your GitHub profile README pop
+Maintained by aixisstudio (https://github.com/aixisstudio). Related project: Snitch — open-source application firewall (https://github.com/aixisstudio/Snitch).
+Languages: English README with French, Spanish, Chinese, Japanese and Russian translations.
+
+## Content
+## ✨ Make your profile move — animated README widgets
+
+## ⌨️ Typing effect
+
+```markdown
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+things+that+matter;Open+source+forever)](https://git.io/typing-svg)
+```
+
+## 🐍 Contribution snake
+
+```yaml
+# .github/workflows/snake.yml — generates an SVG snake eating your graph
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: dist/github-contribution-grid-snake.svg
+```
+
+```markdown
+![snake](https://raw.githubusercontent.com/USER/USER/output/github-contribution-grid-snake.svg)
+```
+
+## 📊 Live stats cards
+
+```markdown
+![stats](https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&theme=tokyonight)
+![streak](https://streak-stats.demolab.com/?user=USER&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=USER&theme=tokyonight)
+```
+
+## 📈 Advanced dashboards
+
+| Service | What it draws |
+|---|---|
+| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Full infographics — 50+ widgets |
+| [git-city](https://github.com/srizzon/git-city) | Your profile as 3D pixel building |
+| [waka-readme](https://github.com/athul/waka-readme) | Coding-time stats (needs WakaTime) |
+| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution line graph |
+
+## 🎵 Fun extras
+
+| Widget | Embed |
+|---|---|
+| Spotify now-playing | `spotify-github-profile.vercel.
