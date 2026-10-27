@@ -56,6 +56,29 @@ _詳細なコンテンツ（リスト・リンク・説明）は保守のため�
 
 > Tip: animated widgets make profiles memorable — but don't stack more than 2-3 or it becomes a slot machine.
 
+## 🎬 Caption templates
+
+```markdown
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+engineer;Building+Snitch;Network+visibility+for+everyone" />
+```
+
+Params: `font`, `size`, `duration`, `pause`, `color`, `lines=a;b;c`, `center`, `vCenter`, `multiline`, `repeat`.
+
+## 🌊 Wave headers
+
+```markdown
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=aixisstudio&fontSize=50&fontColor=fff&animation=twinkling" />
+```
+
+Types: `waving`, `venom`, `slice`, `rect`, `soft`, `rounded`, `cylinder`, `shark`, `transparent`. Animations: `twinkling`, `fadeIn`, `scaleIn`, `blinking`.
+
+## 📈 Contribution graph extras
+
+- **3D profile**: `github-profile-3d-contrib` — generates an isometric SVG nightly
+- **Snake**: `platane/snk` — the classic eating-commits animation
+- **Metrics**: `lowlighter/metrics` — the kitchen-sink SVG (languages, habits, isocalendar)
+- **Skyline**: `github.com/skyline` — your year as a 3D-printable city
+
 ---
 ## 貢献
 
