@@ -4,17 +4,15 @@
 
 Des widgets animés pour rendre ton README de profil vivant
 
-_Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester maintenable — les sections ci-dessous te guident._
+Faites bouger votre profil — widgets README animés
 
-## ✨ Make your profile move — animated README widgets
-
-## ⌨️ Typing effect
+Effet de dactylographie
 
 ```markdown
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+things+that+matter;Open+source+forever)](https://git.io/typing-svg)
 ```
 
-## 🐍 Contribution snake
+Contribution serpent
 
 ```yaml
 # .github/workflows/snake.yml — generates an SVG snake eating your graph
@@ -28,7 +26,7 @@ _Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester 
 ![snake](https://raw.githubusercontent.com/USER/USER/output/github-contribution-grid-snake.svg)
 ```
 
-## 📊 Live stats cards
+Les cartes de statistiques en direct
 
 ```markdown
 ![stats](https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&theme=tokyonight)
@@ -36,27 +34,27 @@ _Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester 
 ![trophy](https://github-profile-trophy.vercel.app/?username=USER&theme=tokyonight)
 ```
 
-## 📈 Advanced dashboards
+Tableau de bord avancé
 
-| Service | What it draws |
+Ce qu'il dessine
 |---|---|
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Full infographics — 50+ widgets |
-| [git-city](https://github.com/srizzon/git-city) | Your profile as 3D pixel building |
-| [waka-readme](https://github.com/athul/waka-readme) | Coding-time stats (needs WakaTime) |
-| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution line graph |
+[Lowlighter/metrics](https://github.com/lowlighter/metrics)= Infographie complète — 50+ widgets=
+Votre profil en 3D pixel building
+[Waka-readme](https://github.com/athul/waka-readme)=Statuts du temps de codage (besoin WakaTime)=
+(https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## 🎵 Fun extras
+Des extras amusants
 
-| Widget | Embed |
+Widget
 |---|---|
-| Spotify now-playing | `spotify-github-profile.vercel.app` |
-| Random dev quote | `quotes-github-readme.vercel.app` |
-| Visitor counter | `komarev.com/ghpvc/?username=USER` |
-| Meme of the day | `random-memer.herokuapp.com` |
+Spotify maintenant en train de jouer
+Dev citation aléatoire
+Un compteur de visiteurs
+Mème du jour
 
-> Tip: animated widgets make profiles memorable — but don't stack more than 2-3 or it becomes a slot machine.
+> Conseil: les widgets animés rendent les profils mémorables — mais ne empilez pas plus de 2-3 ou il devient une machine à sous.
 
-## 🎬 Caption templates
+Modèles de capture
 
 ```markdown
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+engineer;Building+Snitch;Network+visibility+for+everyone" />
@@ -64,7 +62,7 @@ _Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester 
 
 Params: `font`, `size`, `duration`, `pause`, `color`, `lines=a;b;c`, `center`, `vCenter`, `multiline`, `repeat`.
 
-## 🌊 Wave headers
+En-têtes des vagues
 
 ```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=aixisstudio&fontSize=50&fontColor=fff&animation=twinkling" />
@@ -72,12 +70,12 @@ Params: `font`, `size`, `duration`, `pause`, `color`, `lines=a;b;c`, `center`, `
 
 Types: `waving`, `venom`, `slice`, `rect`, `soft`, `rounded`, `cylinder`, `shark`, `transparent`. Animations: `twinkling`, `fadeIn`, `scaleIn`, `blinking`.
 
-## 📈 Contribution graph extras
+Chiffres supplémentaires du graphique de contribution
 
-- **3D profile**: `github-profile-3d-contrib` — generates an isometric SVG nightly
-- **Snake**: `platane/snk` — the classic eating-commits animation
-- **Metrics**: `lowlighter/metrics` — the kitchen-sink SVG (languages, habits, isocalendar)
-- **Skyline**: `github.com/skyline` — your year as a 3D-printable city
+- ** Profil 3D**: `github-profile-3d-contrib` — génère un SVG isométrique nocturne
+- **Snake**: `platane/snk` — l'animation classique des comitats alimentaires
+- **Métrique**: `lowlighter/metrics` — le SVG à jet de cuisine (langues, habitudes, isocalendar)
+- **Skyline**: `github.com/skyline` — votre année en tant que ville imprimable en 3D
 
 ---
 ## Contribuer
