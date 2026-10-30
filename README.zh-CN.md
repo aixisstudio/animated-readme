@@ -4,17 +4,15 @@
 
 让你的 GitHub 个人主页动起来的动画组件
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+□ QQ 使您的配置文件移动—— 动画 README 部件
 
-## ✨ Make your profile move — animated README widgets
-
-## ⌨️ Typing effect
+# # # 键入效果
 
 ```markdown
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+things+that+matter;Open+source+forever)](https://git.io/typing-svg)
 ```
 
-## 🐍 Contribution snake
+□□□□ 贡献蛇
 
 ```yaml
 # .github/workflows/snake.yml — generates an SVG snake eating your graph
@@ -28,7 +26,7 @@ _详细内容（列表、链接、描述）以英文维护 — 以下章节为�
 ![snake](https://raw.githubusercontent.com/USER/USER/output/github-contribution-grid-snake.svg)
 ```
 
-## 📊 Live stats cards
+□ □ □ 现场统计卡
 
 ```markdown
 ![stats](https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&theme=tokyonight)
@@ -36,48 +34,48 @@ _详细内容（列表、链接、描述）以英文维护 — 以下章节为�
 ![trophy](https://github-profile-trophy.vercel.app/?username=USER&theme=tokyonight)
 ```
 
-## 📈 Advanced dashboards
+□ 高级仪表板
 
-| Service | What it draws |
+服务,它画什么?
 |---|---|
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Full infographics — 50+ widgets |
-| [git-city](https://github.com/srizzon/git-city) | Your profile as 3D pixel building |
-| [waka-readme](https://github.com/athul/waka-readme) | Coding-time stats (needs WakaTime) |
-| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution line graph |
+[低光/度](https://github.com/lowlighter/metrics)                                                                                                     
+[git-city](https://github.com/srizzon/git-city) 你的3D像素建筑简介 |
+[waka-readme](https://github.com/athul/waka-readme) 编码时间统计(需要WakaTime) |
+[github-readme-active-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) 贡献线图 |
 
-## 🎵 Fun extras
+□□□□□□□□□□□□□□□□□□□
 
-| Widget | Embed |
+部件 嵌入
 |---|---|
-| Spotify now-playing | `spotify-github-profile.vercel.app` |
-| Random dev quote | `quotes-github-readme.vercel.app` |
-| Visitor counter | `komarev.com/ghpvc/?username=USER` |
-| Meme of the day | `random-memer.herokuapp.com` |
+QQ 注意现在播放 `spotify-github-profile.vercel.app` QQ
+################################################################################################################################################################################################################################################################
+访问者台 `komarev.com/ghpvc/?username=USER`
+今天的回忆 `random-memer.herokuapp.com` ~
 
-> Tip: animated widgets make profiles memorable — but don't stack more than 2-3 or it becomes a slot machine.
+> Tip:动画部件使剖面可以回忆——但不要堆叠超过2-3,否则就成为插槽机.
 
-## 🎬 Caption templates
+# # # # 说明模板
 
 ```markdown
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+engineer;Building+Snitch;Network+visibility+for+everyone" />
 ```
 
-Params: `font`, `size`, `duration`, `pause`, `color`, `lines=a;b;c`, `center`, `vCenter`, `multiline`, `repeat`.
+参数:`font`,`size`,`duration`,`pause`,`color`,`lines=a;b;c`,`center`,`vCenter`,`multiline`,`repeat`.
 
-## 🌊 Wave headers
+# # # # 波浪头
 
 ```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=aixisstudio&fontSize=50&fontColor=fff&animation=twinkling" />
 ```
 
-Types: `waving`, `venom`, `slice`, `rect`, `soft`, `rounded`, `cylinder`, `shark`, `transparent`. Animations: `twinkling`, `fadeIn`, `scaleIn`, `blinking`.
+类型:`waving`,`venom`,`slice`,`rect`,`soft`,`rounded`,`cylinder`,`shark`,`transparent`. 动画:`twinkling`,`fadeIn`,`scaleIn`,`blinking`.
 
-## 📈 Contribution graph extras
+□                                                                                                    
 
-- **3D profile**: `github-profile-3d-contrib` — generates an isometric SVG nightly
-- **Snake**: `platane/snk` — the classic eating-commits animation
-- **Metrics**: `lowlighter/metrics` — the kitchen-sink SVG (languages, habits, isocalendar)
-- **Skyline**: `github.com/skyline` — your year as a 3D-printable city
+- **3D profile **: `github-profile-3d-contrib` - 生成同位素 SVG 夜间
+- ** Snake**: `platane/snk`——经典的饮食承诺动画
+- ** 计量**: `lowlighter/metrics`——厨房-水槽SVG(语言、习惯、isocalendar)
+- **Skyline**:`github.com/skyline`——你作为3D可打印城市的年份
 
 ---
 ## 贡献
