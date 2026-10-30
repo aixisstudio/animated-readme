@@ -4,17 +4,15 @@
 
 Widgets animados para hacer vibrar tu README de perfil
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
+## но Haz que tu perfil se mueva — animados widgets README
 
-## ✨ Make your profile move — animated README widgets
-
-## ⌨️ Typing effect
+Efecto de clasificación
 
 ```markdown
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+things+that+matter;Open+source+forever)](https://git.io/typing-svg)
 ```
 
-## 🐍 Contribution snake
+## 🐍 Contribution serpiente
 
 ```yaml
 # .github/workflows/snake.yml — generates an SVG snake eating your graph
@@ -28,7 +26,7 @@ _El contenido detallado (listas, enlaces, descripciones) está en inglés por ma
 ![snake](https://raw.githubusercontent.com/USER/USER/output/github-contribution-grid-snake.svg)
 ```
 
-## 📊 Live stats cards
+## 📊 Live statistics cards
 
 ```markdown
 ![stats](https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&theme=tokyonight)
@@ -36,33 +34,33 @@ _El contenido detallado (listas, enlaces, descripciones) está en inglés por ma
 ![trophy](https://github-profile-trophy.vercel.app/?username=USER&theme=tokyonight)
 ```
 
-## 📈 Advanced dashboards
+## 📈 Avanzado dashboards
 
-| Service | What it draws |
+← Servicio Silencioso Lo que dibuja
 |---|---|
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Full infographics — 50+ widgets |
-| [git-city](https://github.com/srizzon/git-city) | Your profile as 3D pixel building |
-| [waka-readme](https://github.com/athul/waka-readme) | Coding-time stats (needs WakaTime) |
-| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution line graph |
+Silencio [lowlighter/metrics] (https://github.com/lowlighter/metrics) Silencio Información completa — 50+ widgets TEN
+Silencio [git-city] (https://github.com/srizzon/git-city) Tu perfil como edificio de píxeles 3D
+[waka-readme] (https://github.com/athul/waka-readme) Silencio Estadísticas de tiempo de codificación (necesidades WakaTime) Silencio
+Silencio [github-readme-actividad-graph] (https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## 🎵 Fun extras
+Extras divertidos
 
-| Widget | Embed |
+← Widget  Embed
 |---|---|
-| Spotify now-playing | `spotify-github-profile.vercel.app` |
-| Random dev quote | `quotes-github-readme.vercel.app` |
-| Visitor counter | `komarev.com/ghpvc/?username=USER` |
-| Meme of the day | `random-memer.herokuapp.com` |
+TEN Spotify now-playing TEN `spotify-github-profile.vercel.app` TEN
+Silencio Random dev quote Silencio `quotes-github-readme.vercel.app`
+Silencio Visitante contra Silencio `komarev.com/ghpvc/?username=USER`
+Meme del día confidencialidad `random-memer.herokuapp.com`
 
-> Tip: animated widgets make profiles memorable — but don't stack more than 2-3 or it becomes a slot machine.
+Tip: los widgets animados hacen que los perfiles sean memorables, pero no apilen más de 2-3 o se convierte en una máquina tragaperras.
 
-## 🎬 Caption templates
+## plantillas de captura de cimiento
 
 ```markdown
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+engineer;Building+Snitch;Network+visibility+for+everyone" />
 ```
 
-Params: `font`, `size`, `duration`, `pause`, `color`, `lines=a;b;c`, `center`, `vCenter`, `multiline`, `repeat`.
+Parámetros: `font`, `size`, `duration`, `pause`, `color`, `lines=a;b;c`, `center`, `vCenter`, `multiline`, `repeat`.
 
 ## 🌊 Wave headers
 
@@ -70,14 +68,14 @@ Params: `font`, `size`, `duration`, `pause`, `color`, `lines=a;b;c`, `center`, `
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=aixisstudio&fontSize=50&fontColor=fff&animation=twinkling" />
 ```
 
-Types: `waving`, `venom`, `slice`, `rect`, `soft`, `rounded`, `cylinder`, `shark`, `transparent`. Animations: `twinkling`, `fadeIn`, `scaleIn`, `blinking`.
+Tipos: `waving`, `venom`, `slice`, `rect`, `soft`, `rounded`, `cylinder`, `shark`, `transparent`. Animaciones: `twinkling`, `fadeIn`, `scaleIn`, `blinking`.
 
-## 📈 Contribution graph extras
+## 📈 Contribuciones graficos extras
 
-- **3D profile**: `github-profile-3d-contrib` — generates an isometric SVG nightly
-- **Snake**: `platane/snk` — the classic eating-commits animation
-- **Metrics**: `lowlighter/metrics` — the kitchen-sink SVG (languages, habits, isocalendar)
-- **Skyline**: `github.com/skyline` — your year as a 3D-printable city
+- ** Perfil 3D**: `github-profile-3d-contrib` genera un SVG isométrico nocturno
+- **Snake**: `platane/snk` — la animación clásica de come-commite
+- **Métricos**: `lowlighter/metrics` — el SVG de la cocina (languagos, hábitos, isocalendar)
+- **Skyline**: `github.com/skyline`, tu año como ciudad impresa en 3D
 
 ---
 ## Contribuir
