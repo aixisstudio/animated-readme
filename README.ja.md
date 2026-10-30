@@ -4,17 +4,15 @@
 
 GitHub プロフィール README を動かすアニメーションウィジェット
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
+## ✨ あなたのプロフィールを移動させます — アニメーション README ウィジェット
 
-## ✨ Make your profile move — animated README widgets
-
-## ⌨️ Typing effect
+## ️️タイピング効果
 
 ```markdown
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+things+that+matter;Open+source+forever)](https://git.io/typing-svg)
 ```
 
-## 🐍 Contribution snake
+## 投稿者ヘビ
 
 ```yaml
 # .github/workflows/snake.yml — generates an SVG snake eating your graph
@@ -28,7 +26,7 @@ _詳細なコンテンツ（リスト・リンク・説明）は保守のため�
 ![snake](https://raw.githubusercontent.com/USER/USER/output/github-contribution-grid-snake.svg)
 ```
 
-## 📊 Live stats cards
+## ライブスタッツカード
 
 ```markdown
 ![stats](https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&theme=tokyonight)
@@ -36,48 +34,48 @@ _詳細なコンテンツ（リスト・リンク・説明）は保守のため�
 ![trophy](https://github-profile-trophy.vercel.app/?username=USER&theme=tokyonight)
 ```
 
-## 📈 Advanced dashboards
+## 0.00 高度なダッシュボード
 
-| Service | What it draws |
+| サービス | 引くもの |
 |---|---|
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Full infographics — 50+ widgets |
-| [git-city](https://github.com/srizzon/git-city) | Your profile as 3D pixel building |
-| [waka-readme](https://github.com/athul/waka-readme) | Coding-time stats (needs WakaTime) |
-| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution line graph |
+| 【ローライター/メトリック】(https://github.com/lowlighter/metrics) | 完全インフォグラフィック — 50+ ウィジェット |
+| [git-city](https://github.com/srizzon/git-city) | 3Dピクセルビルのプロファイル |
+| 【waka-readme】(https://github.com/athul/waka-readme) | コーディングタイム統計(WakaTimeニード) |
+| [github-readme-action-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | 投稿ライングラフ |
 
-## 🎵 Fun extras
+## 詳しくはこちら
 
-| Widget | Embed |
+| ウィジェット | エンベッド |
 |---|---|
-| Spotify now-playing | `spotify-github-profile.vercel.app` |
-| Random dev quote | `quotes-github-readme.vercel.app` |
-| Visitor counter | `komarev.com/ghpvc/?username=USER` |
-| Meme of the day | `random-memer.herokuapp.com` |
+| 今すぐ登録 | `spotify-github-profile.vercel.app` |
+| ランダム開発引用 | `quotes-github-readme.vercel.app` |
+| ビジターカウンター | `komarev.com/ghpvc/?username=USER` |
+| 当日の目 | `random-memer.herokuapp.com` |
 
-> Tip: animated widgets make profiles memorable — but don't stack more than 2-3 or it becomes a slot machine.
+> ヒント: アニメーションウィジェットはプロフィールを記憶に残るようにします。ただし、2-3以上スタックしない、またはスロットマシンになります。
 
-## 🎬 Caption templates
+## キャプチャテンプレート
 
 ```markdown
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+engineer;Building+Snitch;Network+visibility+for+everyone" />
 ```
 
-Params: `font`, `size`, `duration`, `pause`, `color`, `lines=a;b;c`, `center`, `vCenter`, `multiline`, `repeat`.
+`font`、`size`、`duration`、`pause`、`color`、`lines=a;b;c`、`center`、`vCenter`、`multiline`、`repeat`。
 
-## 🌊 Wave headers
+## シャーウェーブヘッダ
 
 ```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=aixisstudio&fontSize=50&fontColor=fff&animation=twinkling" />
 ```
 
-Types: `waving`, `venom`, `slice`, `rect`, `soft`, `rounded`, `cylinder`, `shark`, `transparent`. Animations: `twinkling`, `fadeIn`, `scaleIn`, `blinking`.
+タイプ: `waving`、`venom`、`slice`、`rect`、`soft`、`rounded`、`cylinder`、`shark`、`transparent`。 アニメーション: `twinkling`、`fadeIn`、`scaleIn`、`blinking`。
 
-## 📈 Contribution graph extras
+## 0.00 投稿グラフの追加
 
-- **3D profile**: `github-profile-3d-contrib` — generates an isometric SVG nightly
-- **Snake**: `platane/snk` — the classic eating-commits animation
-- **Metrics**: `lowlighter/metrics` — the kitchen-sink SVG (languages, habits, isocalendar)
-- **Skyline**: `github.com/skyline` — your year as a 3D-printable city
+-**3Dプロファイル**:`github-profile-3d-contrib` — 夜に対称SVGを生成します
+- **スネーク**: `platane/snk` — 古典的な食べ約束アニメーション
+- **メトリック**: `lowlighter/metrics` — キッチンシンクSVG (言語、習慣、イソカレンダー)
+-**Skyline**:`github.com/skyline` — 3Dプリント可能な都市としてあなたの年
 
 ---
 ## 貢献
